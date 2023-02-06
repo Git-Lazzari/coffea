@@ -1,5 +1,6 @@
 .header {
-    height: 8em;
+    height: 6em;
+    background-color: rgb(250, 241, 227);
     display: flex;
     align-items: center;
     justify-content: center;
@@ -8,4 +9,29 @@
 
 .header img {
     height: 100%;
+}
+
+.search {
+    height: 1.3em;
+    border: rgb(61, 34, 5) solid 3px;
+    background-color: rgb(250, 241, 227);
+    border-radius: 20px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    justify-content: space-around;
+}
+
+.search img {
+    height: 1em;
+    margin-right: 3px;
+}
+
+.input {
+    outline: none;
+    margin-left: 6px;;
+    height: 80%;
+    background-color: rgb(250, 241, 227);
+    border-style: none;
+    border-radius: 20px;
 }

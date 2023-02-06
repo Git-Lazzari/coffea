@@ -1,0 +1,9 @@
+.button {
+    display: flex;
+    justify-content: center;
+    justify-content: space-between;
+    height: 100%;
+    width: fit-content;
+    border: none;
+    background-color: rgb(194, 178, 152);
+}
