@@ -1,4 +1,14 @@
 .section {
-    background-color: rgb(250, 241, 227);
     height: fit-content;
+}
+
+.leftList {
+    margin-left: 2.5%;
+    border: 1px black solid;
+    height: fit-content;
+    width: 20%;
+}
+
+h3 {
+    text-align: center;
 }
